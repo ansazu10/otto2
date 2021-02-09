@@ -1,9 +1,9 @@
 CACHE MANIFEST
-#634603953.497845
+#634604197.237920
 
 ../index.html
 HYPE-674.full.min.js
-index_hype_generated_script.js?9805
+index_hype_generated_script.js?83403
 boognn__-webfont.woff2
 boognn__-webfont.woff
 1_1Cama.png
@@ -120,8 +120,6 @@ c2_carrilera.png
 c2_carrilera_2x.png
 c2_bkg.png
 c2_tres-gatos.png
-c2_Estacio%CC%81n.png
-c2_Estacio%CC%81n_2x.png
 C2_arboles2.jpg
 C2_arboles2_2x.jpg
 c2_fondo.jpg
@@ -178,6 +176,8 @@ c2-escenaA.mp3
 c2_escenaB.mp3
 c2_crepitar.mp3
 c2_fuego.mp3
+c2_estacion.png
+c2_estacion_2x.png
 poster.jpg
 PIE.htc
 blank.gif
